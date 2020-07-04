@@ -3,10 +3,11 @@
     {
       "id": "a", "group": 1,
        "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1500,
 	  "ya":100
@@ -14,10 +15,11 @@
     {
       "id": "b", "group": 2,
        "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1400,
 	  "ya":150
@@ -25,10 +27,11 @@
     {
       "id": "c", "group": 3,
       "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1450,
 	  "ya":175
@@ -36,10 +39,11 @@
     {
       "id": "d", "group": 4,
        "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1300,
 	  "ya":200
@@ -47,10 +51,11 @@
     {
       "id": "e", "group": 1,
        "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1200,
 	  "ya":250
@@ -58,10 +63,11 @@
     {
       "id": "f", "group": 1,
        "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1100,
 	  "ya":270
@@ -69,10 +75,11 @@
     {
       "id": "g", "group": 2,
       "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":1000,
 	  "ya":290
@@ -80,10 +87,11 @@
     {
       "id": "h", "group": 3,
       "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":900,
 	  "ya":350
@@ -91,10 +99,11 @@
     {
       "id": "i", "group": 4,
       "pieChart" : [
-        { "color": 1, "percent": 25 },
-        { "color": 2, "percent": 25 },
-        { "color": 3, "percent": 25 },
-        { "color": 4, "percent": 25 }
+        { "color": 1, "percent": 20 },
+        { "color": 2, "percent": 20 },
+        { "color": 3, "percent": 20 },
+        { "color": 4, "percent": 20 },
+		{ "color": 5, "percent": 20 }
       ],
 	  "xa":800,
 	  "ya":400
