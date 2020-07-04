@@ -2,21 +2,22 @@
   "nodes": [
     {
       "id": "a", "group": 1,
-      "pieChart" : [
-        { "color": 1, "percent": 40 },
-        { "color": 2, "percent": 20 },
-        { "color": 3, "percent": 20 },
-        { "color": 4, "percent": 20 }
+       "pieChart" : [
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":1500,
 	  "ya":100
     },
     {
       "id": "b", "group": 2,
-      "pieChart" : [
-        { "color": 1, "percent": 33.33 },
-        { "color": 2, "percent": 33.34 },
-        { "color": 3, "percent": 33.33 }
+       "pieChart" : [
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":1400,
 	  "ya":150
@@ -34,26 +35,33 @@
     },
     {
       "id": "d", "group": 4,
-      "pieChart" : [
-        { "color": 1, "percent": 33.33 },
-        { "color": 3, "percent": 33.33 },
-        { "color": 4, "percent": 33.34 }
+       "pieChart" : [
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":1300,
 	  "ya":200
     },
     {
       "id": "e", "group": 1,
-      "pieChart" : [
-        { "color": 1, "percent": 100 }
+       "pieChart" : [
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":1200,
 	  "ya":250
     },
     {
       "id": "f", "group": 1,
-      "pieChart" : [
-        { "color": 1, "percent": 100 }
+       "pieChart" : [
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":1100,
 	  "ya":270
@@ -61,8 +69,10 @@
     {
       "id": "g", "group": 2,
       "pieChart" : [
-        { "color": 2, "percent": 50 },
-        { "color": 3, "percent": 50 }
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":1000,
 	  "ya":290
@@ -70,8 +80,10 @@
     {
       "id": "h", "group": 3,
       "pieChart" : [
-        { "color": 2, "percent": 50 },
-        { "color": 3, "percent": 50 }
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":900,
 	  "ya":350
@@ -79,7 +91,10 @@
     {
       "id": "i", "group": 4,
       "pieChart" : [
-        { "color": 4, "percent": 100 }
+        { "color": 1, "percent": 25 },
+        { "color": 2, "percent": 25 },
+        { "color": 3, "percent": 25 },
+        { "color": 4, "percent": 25 }
       ],
 	  "xa":800,
 	  "ya":400
