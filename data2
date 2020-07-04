@@ -1,0 +1,85 @@
+{
+  "nodes": [
+    {
+      "id": "GSC 1", "group": 1,
+       "pieChart" : [
+        { "color": "white", "percent": 20 },
+        { "color": "blue", "percent": 20 },
+        { "color": "grey", "percent": 20 },
+        { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 }
+      ],
+	  "xa":595,
+	  "ya":200
+    },
+    {
+      "id": "GSC 2", "group": 2,
+       "pieChart" : [
+        { "color": "white", "percent": 20 },
+        { "color": "blue", "percent": 20 },
+        { "color": "white", "percent": 20 },
+        { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 }
+      ],
+	  "xa":785,
+	  "ya":200
+    },
+    {
+      "id": "GSC 3", "group": 3,
+      "pieChart" : [
+        { "color": "white", "percent": 20 },
+        { "color": "blue", "percent": 20 },
+        { "color": "grey", "percent": 20 },
+        { "color": "black", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 }
+      ],
+	  "xa":975,
+	  "ya":200
+    },
+    {
+      "id": "GSC 4", "group": 4,
+      "pieChart" : [
+        { "color": "white", "percent": 20 },
+        { "color": "white", "percent": 20 },
+        { "color": "white", "percent": 20 },
+        { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 }
+      ],
+	  "xa":1165,
+	  "ya":200
+    },
+    {
+      "id": "GSC 5", "group": 1,
+       "pieChart" : [
+        { "color": "white", "percent": 20 },
+        { "color": "blue", "percent": 20 },
+        { "color": "grey", "percent": 20 },
+        { "color": "violet", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 }
+      ],
+	  "xa":1165,
+	  "ya":250
+    }
+  ],
+  "links": [
+    {"source": "GSC 1", "target": "GSC 2", "color": "red"},
+    {"source": "GSC 2", "target": "GSC 3", "color": "red"},
+    {"source": "GSC 3", "target": "GSC 4", "color": "red"},
+    {"source": "GSC 4", "target": "GSC 5", "color": "red"}
+  ]
+}
