@@ -7,7 +7,10 @@
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
-		{ "color": "blue", "percent": 20 }
+		{ "color": "blue", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1500,
 	  "ya":100
@@ -19,6 +22,9 @@
         { "color": "red", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "green", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1400,
@@ -31,6 +37,9 @@
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "pink", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1450,
@@ -43,6 +52,9 @@
         { "color": "white", "percent": 20 },
         { "color": "brown", "percent": 20 },
         { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1300,
@@ -55,6 +67,9 @@
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "violet", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1200,
@@ -67,6 +82,9 @@
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1100,
@@ -79,6 +97,9 @@
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":1000,
@@ -91,6 +112,9 @@
         { "color": "lightblue", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":900,
@@ -103,6 +127,9 @@
         { "color": "grey", "percent": 20 },
         { "color": "white", "percent": 20 },
         { "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
+		{ "color": "white", "percent": 20 },
 		{ "color": "white", "percent": 20 }
       ],
 	  "xa":800,
